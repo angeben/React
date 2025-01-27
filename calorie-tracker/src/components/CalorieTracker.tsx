@@ -11,7 +11,7 @@ export default function CalorieTracker({activities} : CalorieTrackerProps) {
     // Counters
     const caloriesConsumed = useMemo(() => activities.reduce((total, activity) => activity.category === 1 ? 
         total + activity.calories : total, 0), [activities])
-    const caloriesBurnt = useMemo(() => activities.reduce((total, activity) => activity.category === 3 ? 
+    const caloriesBurnt = useMemo(() => activities.reduce((total, activity) => activity.category === 2 ? 
         total + activity.calories : total, 0), [activities])
     const totalCalories = useMemo(() => caloriesConsumed - caloriesBurnt, [activities])
   
