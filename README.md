@@ -9,7 +9,8 @@ This repository contains projects created with React, mainly with TypeScript. Us
 -  **order-calculator:** Web app that simulates the process of taking an order in a restaurant. You can check out a [*demo*](https://angeben-order-calculator.netlify.app/) of the project.
 		-  **order-calculator-reducer:** Version of the same project implemented with useReducer
 -  **calorie-tracker:** Web app that simulates a tracker for calories involved in food or exercise. You can check out a [*demo*](https://angeben-calorie-tracker.netlify.app/) of the project.
--  **expense-planner:** Web app that simulates a planner for expenses under a budget. You can check out a [*demo*](https://angeben-expense-planner.netlify.app/) of the project.
-		-  **expense-planner-contextAPI:** Version of the same project implemented with context API
+		-  **calorie-tracker-contextAPI:** Version of the same project implemented with context API
+-  **expense-planner:** Web app that simulates a planner for expenses under a budget, implemented with context API. You can check out a [*demo*](https://angeben-expense-planner.netlify.app/) of the project.
+-  **patient-monitoring:** Web app to monitor information about patients, implemented with Zustand. You can check out a [*demo*](https://angeben-patient-monitoring.netlify.app/) of the project.
 -  **album-app-frontend:** Frontend for app to manage photos, credits to *StudyEasy*. Backend in my [*Spring Boot repo*](https://github.com/angeben/Java-Spring/tree/main/album-app-backend)
 
