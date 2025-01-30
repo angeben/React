@@ -12,5 +12,6 @@ This repository contains projects created with React, mainly with TypeScript. Us
 		-  **calorie-tracker-contextAPI:** Version of the same project implemented with context API
 -  **expense-planner:** Web app that simulates a planner for expenses under a budget, implemented with context API. You can check out a [*demo*](https://angeben-expense-planner.netlify.app/) of the project.
 -  **patient-monitoring:** Web app to monitor information about patients, implemented with Zustand. You can check out a [*demo*](https://angeben-patient-monitoring.netlify.app/) of the project.
+-  **climate-checker:** Web app that reads an API to provide weather information. You can check out a [*demo*](https://angeben-climate-checker.netlify.app/) of the project.
 -  **album-app-frontend:** Frontend for app to manage photos, credits to *StudyEasy*. Backend in my [*Spring Boot repo*](https://github.com/angeben/Java-Spring/tree/main/album-app-backend)
 
